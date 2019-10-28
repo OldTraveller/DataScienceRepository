@@ -1,0 +1,53 @@
+Supervised Machine Learning Algorithms -> 
+1) Decision Trees
+2) Random Forest
+3) KNN 
+4) Logistic Regression 
+
+Unsupervised Learning Algorithms -> 
+1) Apriori Algorithms
+2) K Means for clustering 
+
+Reinforcement Learning Algorithms -> 
+1) Markov Decision Process
+
+Most common Machine Learning Algorithms:
+
+1) Linear Regression 
+We say that one variable input variable can be used to compute an output variable 
+y. 
+Types of Linear Regression:- 
+a) Multiple Linear Regression
+b) Single Linear Regression 
+
+Linear Regression is mainly used to compute a single value based on something. 
+
+Logistic Regression :- Predicts the probability of something. It has all the possible values 
+between 0 and 1. 
+
+Decision Trees:
+is a Supervised Learning Algorithm that is mostly used for the classification problems. 
+Decision Trees have a root node and exhibit a tree like structure. 
+And the leaves there are known as the Decision leaves. 
+
+SVM (Support Vector Machines) 
+It is mainly used for classification problems. 
+
+Naive Bayes 
+It is also classification technique for the stuff. 
+The logic behind this classification technique is to use the Naive Bayesian Classifiers. 
+It assumes that the presence of a particular feature is independent of the presence of other 
+feature. 
+
+K nearest neighbour
+1) Picks up k nearest clusters for the data provided.
+2) find the centroid of all the clusters among the k clusters. 
+
+Random Forest
+It is a Supervised Learning Algorithm
+It is a combination of descision trees. This is also known as forest. 
+Then the algorithm selects teh best classifications from the available classifiaction done
+by descision trees. 
+
+
+

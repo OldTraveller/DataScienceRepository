@@ -1,0 +1,34 @@
+---------------------------------------------------------
+Preprocessing the Data
+---------------------------------------------------------
+In our daily life we deal with lots of data. 
+To process the data, we need to convert it from the
+raw form to the form in which it can be fed as an input to some machine Learning Algorithm. 
+In simple form, we say that we ned to carry out some processing on the data before sending it
+for some operation on Machine Learning stuff. 
+This is called Preprocessing of the Data. 
+
+---------------------------------------------------------
+How to do Preprocessing ??
+---------------------------------------------------------
+1) Import all the necessary packages. If we are using Python then this is the first
+step to Preprocess the data. 
+import the necessary packages to get the suitable libraries and functions and all teh kind of 
+stuff out there. 
+
+import numpy as np 
+import sklearn.preprocessing 
+
+
+
+NumPy − Basically NumPy is a general purpose array-processing package designed to 
+efficiently manipulate large multi-dimensional arrays of arbitrary records without 
+sacrificing too much speed for small multi-dimensional arrays.
+
+Sklearn.preprocessing − This package provides many common utility functions and 
+transformer classes to change raw feature vectors into a representation that is 
+more suitable for machine learning algorithms.
+
+
+
+
